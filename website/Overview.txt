@@ -2,3 +2,10 @@ file:///Users/thiagofasolo/Desktop/Data%20Visualization/3Homework3/website/index
 file:///Users/thiagofasolo/Desktop/Data%20Visualization/3Homework3/website/projects.html
 
 
+1. Custom Color Scheme: The website's original color palette has been replaced with a new theme featuring a deep red gradient for the navigation and hero sections, and vibrant blue for headings and accents, creating a more dynamic and personalized visual identity.
+
+2. Custom Typography and Spacing: I adjusted the typography by setting specific font sizes, weights, and letter-spacing for headings and paragraphs, and also modified the line-height and margins to improve readability and create a more balanced and professional layout.
+
+3. Custom Layout and Image Sizing: The layout was customized using Flexbox for the navigation bar and Grid for the about section to structure content, and I specifically adjusted the project image to be 40% of its container's width and centered it on the page for a more focused presentation.
+
+4. Interactive Hover Effects: To enhance user experience, I added interactive hover effects, such as a subtle upward transform on navigation links and a zoom effect on images, providing visual feedback and making the site feel more responsive to a more engaging interface.
